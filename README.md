@@ -1,4 +1,5 @@
 ### 專長
 :ant: Software Engineering \
 :ant: DevOps \
-:ant: Microservices
+:ant: Microservices \
+🍆: Agile methods
